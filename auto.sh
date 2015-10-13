@@ -1,1 +1,2 @@
-pwd > ../list.txt
+pwd > ../list.txt 
+ls -a >> ../list.txt
